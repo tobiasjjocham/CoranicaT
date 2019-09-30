@@ -1,2 +1,2 @@
 # toranica
-font development for near estern scripts
+font development for near estern scripts, merge features of "Corancia" and "Amiri" fonts...
